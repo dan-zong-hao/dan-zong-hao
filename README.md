@@ -1,1 +1,1 @@
-[![danzonghao's github stats](https://github-readme-stats.vercel.app/api?username=dan-zong-hao)](https://github.com/anuraghazra/github-readme-stats)
+![danzonghao's GitHub stats](https://github-readme-stats.vercel.app/api?username=danzonghao&show_icons=true&theme=radical)
